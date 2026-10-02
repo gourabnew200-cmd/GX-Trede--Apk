@@ -1,0 +1,6 @@
+{
+  "name": "CryptoPulse",
+  "description": "Cryptocurrency trading platform with real-time price alerts, portfolio tracking dashboards, social sentiment analysis, mutual funds integration, and tax reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
